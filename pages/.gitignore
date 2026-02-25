@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Large files
+*.pkl
+*.csv
+*.txt
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
